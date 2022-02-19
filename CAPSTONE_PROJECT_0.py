@@ -6,7 +6,7 @@ salesDB = [
         "no_order" : "SA01",
         "item" : "Television",
         "units" : 95,
-        "unit_price" : 1198,
+        "unit_price" : 1199,
         "sales_amount" : 113810
     },
     {
